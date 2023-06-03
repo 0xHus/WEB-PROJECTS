@@ -1,0 +1,1 @@
+You must create a database named "user_db" before importing the sql file
